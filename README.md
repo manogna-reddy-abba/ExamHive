@@ -212,24 +212,7 @@ Return ONLY a valid JSON array. Format:
 
 ---
 
-## 👩‍💻 Team
-
-| Name | Roll Number |
-|---|---|
-| Jhansi | 24WU0102125 |
-| Hema Varshini | 24WU0102156 |
-| Manogna | 24WU0102139 |
-
-**Section:** AIML Panthers
-**Guide:** Prof. Geetha Tripathi — Assistant Professor, CSE (AI & ML)
-**University:** Woxsen University, Hyderabad
-
----
-
 ## 📄 License
 
 This project is built for academic purposes as part of the Web Technologies PBL course at Woxsen University.
 
----
-
-<p align="center">Built with ❤️ by AIML Panthers — Woxsen University 🐝</p>
